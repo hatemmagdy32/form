@@ -1,0 +1,22 @@
+
+h1{
+
+    color: palevioletred;
+}
+body{
+    background-color: aqua;
+}
+table{
+    background-color: blue;
+    width: 40%;
+
+}
+tr{
+    background-color: rebeccapurple;
+}
+p{
+    background-color: rgb(161, 127, 255);
+}
+span{
+    background-color:red         ;
+}
